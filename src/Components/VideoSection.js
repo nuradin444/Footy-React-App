@@ -6,7 +6,7 @@ import './VideoSection.css';
 function VideoSection() {
     return (
         <div className='hero-container'>
-    <video src='' autoPlay loop muted/>
+    <video src="/videos/footy.mp4" autoPlay loop muted/>
     <h1>BRINGING FOOTBALL TO LIFE</h1>
     <p>Live it, feel it, enjoy it</p>
     <div className='hero-btns'>
