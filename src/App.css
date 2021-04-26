@@ -17,7 +17,7 @@
 }
 
 .services {
-  /* background-image: url('/images/img-2.jpg'); */
+  background-image: url('https://images.unsplash.com/photo-1564491259531-0ab928494425?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3RhZGl1bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');  
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,17 +26,15 @@
 }
 
 .products {
-  /* background-image: url('/images/img-1.jpg'); */
-  background-position: center;
-  background-size: fill;
+  background-image: url('https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c3RhZGl1bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');   background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
 }
 
 .sign-up {
-  /* background-image: url('/images/img-8.jpg'); */
-  background-position: center;
+  background-image: url('https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80');   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
