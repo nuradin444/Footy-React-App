@@ -2,6 +2,7 @@ import React from 'react';
 import '../../App.css';
 import VideoSection from '../VideoSection';
 import Cards from '../Cards';
+import Footer from '../Footer';
 
 
  const Home = () => {
@@ -9,6 +10,7 @@ import Cards from '../Cards';
         <>
        <VideoSection/>
        <Cards/>
+       <Footer/>
         </>
     )
 }
