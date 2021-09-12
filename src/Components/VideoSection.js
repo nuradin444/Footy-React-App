@@ -6,9 +6,9 @@ import './VideoSection.css';
 function VideoSection() {
     return (
         <div className='hero-container'>
-    <video src="/videos/footy.mp4" autoPlay loop muted/>
-    <h1>BRINGING FOOTBALL TO LIFE</h1>
-    <p>Live it, feel it, enjoy it</p>
+    <video src="/videos/pills.mp4" autoPlay loop muted/>
+    <h1>Doctors</h1>
+    <p>Here to help</p>
     <div className='hero-btns'>
         <Button
         className='btns'
@@ -23,7 +23,7 @@ function VideoSection() {
         buttonStyle='btn--primary'
         buttonSize='btn--large'
         >
-            WATCH TRAILER <i className='far fa-play-circle'/>
+           BOOK AN APPOINTMENT
         </Button>
     </div>
             

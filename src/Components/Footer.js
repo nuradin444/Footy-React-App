@@ -9,7 +9,7 @@ function Footer() {
             className="footer-subscription"
             >
             <p className="footer-subscription-heading">
-                Join the football journey by signing up to our newsletter
+                Join the journey by signing up to our newsletter
             </p>
             <p className="footer-subscription-text">
                 Feel free to unsubscribe at any given time
